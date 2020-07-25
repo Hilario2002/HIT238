@@ -1,1 +1,1 @@
-A repository for 2020 2nd Semester of HIT238 as per Activity for Week 1
+A repository for HIT238 Semester 2, 2020
